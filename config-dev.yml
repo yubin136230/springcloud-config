@@ -1,4 +1,4 @@
 spring:
   profiles: dev
   application:
-    name: springcloud-config-dev333
+    name: springcloud-config-dev444
